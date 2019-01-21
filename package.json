@@ -1,0 +1,28 @@
+{
+  "name": "unifi-nvr-motion-mqtt-node",
+  "version": "1.0.0",
+  "description": "A script to publish on an MQTT topic when motion is detected on a unifi camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvarrieur/unifi-nvr-motion-mqtt-node.git"
+  },
+  "keywords": [
+    "unifi",
+    "unifi",
+    "nvr",
+    "mqtt",
+    "node",
+    "homeassistant",
+    "hass"
+  ],
+  "author": "Michael Varrieur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvarrieur/unifi-nvr-motion-mqtt-node/issues"
+  },
+  "homepage": "https://github.com/mvarrieur/unifi-nvr-motion-mqtt-node#readme"
+}
